@@ -1,6 +1,6 @@
 # 499 Final Project – ePortfolio
 
-##Jesse Morales
+# Jesse Morales
 
 This repository contains my final project for CS 499. It represents my professional ePortfolio and shows my growth throughout the Computer Science program at Southern New Hampshire University. The portfolio includes original and enhanced artifacts, written narratives, and a code review video. Together, these materials demonstrate my skills in software design and engineering, algorithms and data structures, and databases.
 
