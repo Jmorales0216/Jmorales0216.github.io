@@ -21,6 +21,7 @@ Video link:
 https://youtu.be/SI2BJM76nvQ
 
 # Artifacts Included
+
 # Software Design and Engineering
 
 CS320_Original.zip
@@ -64,5 +65,8 @@ Provide a professional portfolio that can be shared with employers
 # Contact
 
 Jesse Morales
+
 Bachelor of Science in Computer Science
+
 Southern New Hampshire University
+
